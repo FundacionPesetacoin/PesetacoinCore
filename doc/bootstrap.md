@@ -30,15 +30,15 @@ Launch the Pesetacoin Core client once before continuing the process and then ex
 **For Windows users:**
 Open explorer, and type into the address bar:
 
-    %APPDATA%\Roaming\DogeCoin
+    %APPDATA%\Roaming\PesetaCoin
 
 This will open up the data folder. It should look like the image below. Copy over the bootstrap.dat from your download folder to this directory.
-![Fig4](img/dogestrap1.png)
+![Fig4](img/pesetacoinstrap1.png)
 
 **For OSX users:**
 Open Finder by pressing Press [shift] + [cmd] + [g] and enter:
 
-    ~/Library/Application Support/DogeCoin/
+    ~/Library/Application Support/PesetaCoin/
 
 **For Linux users:**
 The directory is hidden in your User folder. Go to:
@@ -47,7 +47,7 @@ The directory is hidden in your User folder. Go to:
 
 ### Importing the blockchain
 Now start the Pesetacoin Core client software. It should show "Importing blocks from disk" like the image below. 
-![Fig5](img/dogestrap2.png)
+![Fig5](img/pesetacoinstrap2.png)
 Wait until the import finishes. The client will download the last days not covered by the import. Congratulations you have successfully imported the blockchain!
 
 ### Is this safe?

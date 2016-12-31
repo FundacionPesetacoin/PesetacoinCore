@@ -1019,7 +1019,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <source>Automatically start Pesetacoin Core after logging in to the system.</source>
-        <translation>Automatiškai paleisti Dogekoin programą įjungus sistemą.</translation>
+        <translation>Automatiškai paleisti Pesetacoinkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <source>&amp;Start Pesetacoin Core on system login</source>
@@ -1356,7 +1356,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <source>Enter a Pesetacoin address (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Įveskite dogekoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Įveskite pesetacoinkoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
 </context>
 <context>
@@ -1991,7 +1991,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <source>The address to sign the message with (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Įveskite dogekoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Įveskite pesetacoinkoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2047,7 +2047,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <source>The address the message was signed with (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Įveskite dogekoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Įveskite pesetacoinkoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Pesetacoin address</source>
@@ -2063,7 +2063,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <source>Enter a Pesetacoin address (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Įveskite dogekoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Įveskite pesetacoinkoinų adresą (pvz. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>

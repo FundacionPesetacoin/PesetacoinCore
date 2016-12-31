@@ -37,10 +37,10 @@ Drag Pesetacoin-Qt to your applications folder, and then run Pesetacoin-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Pesetacoin Wiki](http://dogeco.in/)
+* See the documentation at the [Pesetacoin Wiki](http://pesetacoinco.in/)
 for help and more information.
 * Ask for help on [#pesetacoin](http://webchat.freenode.net?channels=pesetacoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=pesetacoin).
-* Ask for help on the [/r/dogeducation subreddit](http://reddit.com/r/dogeducation).
+* Ask for help on the [/r/pesetacoinducation subreddit](http://reddit.com/r/pesetacoinducation).
 
 Building
 ---------------------

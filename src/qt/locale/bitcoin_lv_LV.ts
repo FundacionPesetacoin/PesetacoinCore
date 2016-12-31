@@ -221,7 +221,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <source>Pesetacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your pesetacoins from being stolen by malware infecting your computer.</source>
-        <translation>Pesetacoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst dogekoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <translation>Pesetacoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst pesetacoinkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -340,7 +340,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <source>Send coins to a Pesetacoin address</source>
-        <translation>Nosūtīt dogekoinus uz Pesetacoin adresi</translation>
+        <translation>Nosūtīt pesetacoinkoinus uz Pesetacoin adresi</translation>
     </message>
     <message>
         <source>Modify configuration options for Pesetacoin Core</source>
@@ -1152,7 +1152,7 @@ Adrese: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot dogekoinus.</translation>
+        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot pesetacoinkoinus.</translation>
     </message>
     <message>
         <source>Whether to show Pesetacoin addresses in the transaction list or not.</source>
@@ -1695,7 +1695,7 @@ Adrese: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt dogekoinus</translation>
+        <translation>Sūtīt pesetacoinkoinus</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1783,7 +1783,7 @@ Adrese: %4
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Apstiprināt dogekoinu sūtīšanu</translation>
+        <translation>Apstiprināt pesetacoinkoinu sūtīšanu</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2544,7 +2544,7 @@ Adrese: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Dogekoinus</translation>
+        <translation>Sūtīt Pesetacoinkoinus</translation>
     </message>
 </context>
 <context>
@@ -3320,7 +3320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Pesetacoin Alert&quot; admin@f
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nepietiek dogekoinu</translation>
+        <translation>Nepietiek pesetacoinkoinu</translation>
     </message>
     <message>
         <source>Loading block index...</source>

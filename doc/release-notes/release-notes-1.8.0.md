@@ -73,7 +73,7 @@ types from the Bitcoin files.
 
 As of 1.8 all transactions have fees applied by defaults, with no exemptions made for
 "old" coins. This ensures fees are consistent, while remaining extremely competitive
-(typically 1 Doge, or around $0.00012 per transaction).
+(typically 1 Pesetacoin, or around $0.00012 per transaction).
 
 ## RPC Allow IP
 

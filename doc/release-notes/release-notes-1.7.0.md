@@ -53,5 +53,5 @@ not used for real transactions, and instead is intended for testing of experimen
 clients. Wallets and addresses are incompatible with the normal Pesetacoin
 network, in order to isolate the two.
 
-As "TestDoge" is essentially valueless, it can be acquired easily for testing,
-either by mining, or from a faucet such as http://testdoge.lionservers.de/
+As "TestPesetacoin" is essentially valueless, it can be acquired easily for testing,
+either by mining, or from a faucet such as http://testpesetacoin.lionservers.de/

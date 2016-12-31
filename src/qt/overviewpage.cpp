@@ -122,9 +122,9 @@ OverviewPage::OverviewPage(QWidget *parent) :
     ui->labelTransactionsStatus->setText("(" + tr("out of sync") + ")");
 
     // Customized branding image.
-    boost::filesystem::path dogepath = GetDataDir(false);
-    dogepath /= "pesetacoin.png";
-    QPixmap shibecoin(dogepath.string().c_str());
+    boost::filesystem::path pesetacoinpath = GetDataDir(false);
+    pesetacoinpath /= "pesetacoin.png";
+    QPixmap shibecoin(pesetacoinpath.string().c_str());
 
     if ( !shibecoin.isNull() ) {
         ui->label_wallet_bgcoin->setPixmap(shibecoin);

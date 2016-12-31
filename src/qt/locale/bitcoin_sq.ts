@@ -460,7 +460,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Pesetacoin network</source>
-        <translation><numerusform>%n lidhje aktive me rrjetin e Dogekoin</numerusform><numerusform>%n lidhje aktive me rrjetin e Dogekoin</numerusform></translation>
+        <translation><numerusform>%n lidhje aktive me rrjetin e Pesetacoinkoin</numerusform><numerusform>%n lidhje aktive me rrjetin e Pesetacoinkoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -1349,7 +1349,7 @@ Address: %4
     </message>
     <message>
         <source>Enter a Pesetacoin address (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Futni një adresë Dogekoini (p.sh. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Futni një adresë Pesetacoinkoini (p.sh. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
 </context>
 <context>
@@ -2056,7 +2056,7 @@ Address: %4
     </message>
     <message>
         <source>Enter a Pesetacoin address (e.g. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</source>
-        <translation>Futni një adresë Dogekoini (p.sh. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
+        <translation>Futni një adresë Pesetacoinkoini (p.sh. LGfR55WPULK6S7eoeEGYW5CLSUFWWZiH5Q)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
