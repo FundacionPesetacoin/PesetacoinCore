@@ -68,7 +68,6 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0xd2a85c7a8606d7c234b366bf831d37d71a2a061f0e95ff1246fa19a80a1f5a16"));
 
         vSeeds.push_back(CDNSSeedData("pesetacoin.info", "dnsseed.pesetacoin.info"));
-        vSeeds.push_back(CDNSSeedData("pesetachain.info", "nodos.pesetachain.info"));
 
         // Workaround for Boost not being quite compatible with C++11;
         std::vector<unsigned char> pka = list_of(47);
