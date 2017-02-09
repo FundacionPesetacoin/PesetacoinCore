@@ -7,7 +7,7 @@ http://www.pesetacoin.info
 
 Copyright (c) 2009-2013 Bitcoin Developers<br />
 Copyright (c) 2011-2013 Litecoin Developers<br />
-Copyright (c) 2014-2015 PesetaCoin Developers
+Copyright (c) 2014-2017 PesetaCoin Developers
 
 
 Que es PesetaCoin?
