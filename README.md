@@ -39,8 +39,9 @@ Compilación sin entorno gráfico:
 
 Ejecutar:
 
-	cd src
-	make -f makefile.unix (makefile.osx para mac o makefile.mingw para windows)
+	./autogen.sh
+	./configure --with-incompatible-bdb
+	make
 
 
 Compilación con entorno gráfico:
