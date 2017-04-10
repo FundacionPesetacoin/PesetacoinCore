@@ -38,7 +38,11 @@ Compilación sin entorno gráfico:
 ----------------------------------
 
 Ejecutar:
-
+	Instalar dependencias:
+	sudo apt-get update
+sudo apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev libboost-all-dev libminiupnpc-dev git libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libdb++-dev 
+	git clone https://github.com/FundacionPesetacoin/Pesetacoin-0.9.1-Oficial.git
+	cd Pesetacoin-0.9.1-Oficial/
 	./autogen.sh
 	./configure --with-incompatible-bdb
 	make
