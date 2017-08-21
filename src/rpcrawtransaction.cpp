@@ -779,7 +779,7 @@ Value sendrawtransaction(const Array& params, bool fHelp)
     if (!fHaveMempool && !fHaveChain) {
         // push to local node and sync with wallets
         CValidationState state;
-        if (AcceptToMemoryPool(mempool, state, tx, false, NULL, !fOverrideFees))
+        if (AcceptToMemoryPool(mempool, state, tx, true, NULL, !fOverrideFees))
             SyncWithWallets(hashTx, tx, NULL);
         else {
             if(state.IsInvalid())
